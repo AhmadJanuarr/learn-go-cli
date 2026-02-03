@@ -1,9 +1,9 @@
-# GoDo CLI 🚀
+# GoDo CLI
 
 A simple, interactive Command Line Interface (CLI) Todo List application built with **Golang**.
 This project serves as a personal exercise to master Golang fundamental concepts.
 
-## 📚 Learning Objectives
+## Learning Objectives
 
 This project implements core Golang features:
 
@@ -14,7 +14,7 @@ This project implements core Golang features:
 - **Input/Output**: Using `bufio` for capturing user input.
 - **Error Handling**: Proper error checking logic.
 
-## ✨ Features
+## Features
 
 - [x] **Add Task**: Create new todo items easily.
 - [x] **List Tasks**: View all tasks with their current status.
@@ -23,7 +23,7 @@ This project implements core Golang features:
 - [x] **Persistent Loop**: Interactive menu that doesn't exit until you say so.
 - [x] **Clear Screen**: Keeps your terminal clean after every action.
 
-## 🛠️ Project Structure
+## Project Structure
 
 todo-app/
 ├── cmd/
