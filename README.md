@@ -25,6 +25,7 @@ This project implements core Golang features:
 
 ## Project Structure
 
+```
 todo-app/
 ├── cmd/
 │ └── app/
@@ -35,9 +36,11 @@ todo-app/
 │ ├── service.go
 │ └── storage.go
 └── go.mod
+```
 
 ## Usage Example
 
+```
 === MENU ===
 
 1. Tambah tugas
@@ -48,3 +51,4 @@ todo-app/
 Choice: 1
 Masukan judul tugas: Belajar Golang Pointer
 -> Berhasil memasukan data!
+```
